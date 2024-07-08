@@ -6,7 +6,9 @@
 html{
     scroll-behavior: smooth;
 }
-
+body{
+    font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
 header {
     background-color: #E32929;
     padding-bottom: 20px;
@@ -173,7 +175,7 @@ header label {
 #sobre .caja1 p {
     font-size: 1.1em;
     line-height: 1.6;
-    text-align: justify;
+    text-align: center;
 }
 
 #sobre .img1 {
